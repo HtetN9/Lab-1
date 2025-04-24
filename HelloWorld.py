@@ -1,2 +1,1 @@
-print("ET0735 - DevOps")
-print("Hello - World")
+print("Hello DevOps")
